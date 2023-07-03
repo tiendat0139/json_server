@@ -2393,7 +2393,9 @@
       "evaluate": [
         {
           "name": "Design the user authentication process",
-          "checked": true
+          "checked": true,
+          "feedback": "Done"
+
         },
         {
           "name": "Implement user registration and login functionality",
