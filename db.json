@@ -2336,23 +2336,23 @@
       "evaluate": [
         {
           "name": "Design the user authentication process",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Implement user registration and login functionality",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Set up user roles and permissions",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Implement access control mechanisms",
           "checked": false,
-          "feedback": "No exacly"
+          "feedback": ""
         }
       ]
     },
@@ -3299,23 +3299,23 @@
       "evaluate": [
         {
           "name": "Design the user authentication process",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Implement user registration and login functionality",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Set up user roles and permissions",
-          "checked": true,
-          "feedback": "Done"
+          "checked": false,
+          "feedback": ""
         },
         {
           "name": "Implement access control mechanisms",
           "checked": false,
-          "feedback": "No exacly"
+          "feedback": ""
         }
       ]
     },
