@@ -2249,7 +2249,28 @@
           "time": "2 days ago"
         }
       ],
-      "evaluate": []
+      "evaluate": [
+        {
+          "name": "Gather requirements from stakeholders",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Define the target audience and user personas",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Outline the website structure and navigation",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Specify the visual design and branding guidelines",
+          "checked": false,
+          "feedback": ""
+        }
+      ]
     },
     {
       "id": "11",
@@ -2460,7 +2481,18 @@
           "size": "10.4MB"
         }
       ],
-      "evaluate": []
+      "evaluate": [
+        {
+          "name": "Identify the components or units to be tested",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Design test cases to cover different scenarios and edge cases",
+          "checked": false,
+          "feedback": ""
+        }
+      ]
     },
     {
       "id": "14",
@@ -2525,7 +2557,33 @@
           "size": "3MB  "
         }
       ],
-      "evaluate": []
+      "evaluate": [
+        {
+          "name": "Select appropriate configuration server technology or tool",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Install and set up the configuration server software",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Configure the server to manage application configurations",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Define and organize configuration files for different environments",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Ensure secure storage and access to configuration data",
+          "checked": false,
+          "feedback": ""
+        }
+      ]
     },
     {
       "id": "15",
@@ -2586,7 +2644,28 @@
           "size": "5MB"
         }
       ],
-      "evaluate": []
+      "evaluate": [
+        {
+          "name": "Gather requirements from stakeholders and project te",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Define the target audience and user personas",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Outline the website structure and navigation",
+          "checked": false,
+          "feedback": ""
+        },
+        {
+          "name": "Specify the visual design and branding guidelines",
+          "checked": false,
+          "feedback": ""
+        }
+      ]
     },
     {
       "id": "16",
@@ -3133,7 +3212,28 @@
           "time": "2 days ago"
         }
       ],
-      "evaluate": []
+      "evaluate": [
+        {
+          "name": "Gather requirements from stakeholders",
+          "checked": true,
+          "feedback": "Done"       
+        },
+        {
+          "name": "Define the target audience and user personas",
+          "checked": true,
+          "feedback": "Done"  
+        },
+        {
+          "name": "Outline the website structure and navigation",
+          "checked": true,
+          "feedback": "Done"  
+        },
+        {
+          "name": "Specify the visual design and branding guidelines",
+          "checked": true,
+          "feedback": "Done"  
+        }
+      ],
     },
     {
       "id": "26",
@@ -3277,7 +3377,8 @@
       "evaluate": [
         {
           "name": "Design the user authentication process",
-          "checked": true
+          "checked": true,
+          "feedback": "Done"
         },
         {
           "name": "Implement user registration and login functionality",
